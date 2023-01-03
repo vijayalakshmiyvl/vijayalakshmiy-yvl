@@ -104,3 +104,7 @@ Mail - Vijay@cloudnloud.com
 
 
 - [open to work](https://www.linkedin.com/feed/update/urn:li:activity:6983433358139670529) - open to work with resume-yvl
+
+- [Joined Capgemini] (https://www.linkedin.com/posts/iamvijaya_opportunity-capgemini-cloudnloud-activity-7013122226036097024-WM6x) - Glad that joining Capgemini
+
+-[about my Journey] (https://www.linkedin.com/posts/iamvijaya_family-friends-activity-7014906734880190464-XTPS) - my journey started
