@@ -100,4 +100,7 @@ Mail - Vijay@cloudnloud.com
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=cloudnloud&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 
+# My LinkedIn AWS-DevOps Knowledge sharing !!
 
+
+- [open to work](https://www.linkedin.com/feed/update/urn:li:activity:6983433358139670529) - open to work with resume-yvl
