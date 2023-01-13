@@ -13,16 +13,16 @@ Strength: Quick Learner, Good Listener
   
   
   
-- [about my journey] (https://www.linkedin.com/posts/iamvijaya_family-friends-activity-7014906734880190464-XTPS?) - About my journet
+- [about my journey](https://www.linkedin.com/posts/iamvijaya_family-friends-activity-7014906734880190464-XTPS?)
 
 
-- [Joined Capgemini] (https://www.linkedin.com/posts/iamvijaya_opportunity-capgemini-cloudnloud-activity-7013122226036097024-WM6x) - Glad that joining Capgemini
+- [Glad that I Joined Capgemini](https://www.linkedin.com/posts/iamvijaya_opportunity-capgemini-cloudnloud-activity-7013122226036097024-WM6x) 
   
- - [About Amazon S3 bucket] (https://www.linkedin.com/posts/iamvijaya_awsservicesrecap-amazon-storage-activity-7016740866325192704-HJWa?) - Recap1 intro to S3 
+ - [About Amazon S3 bucket](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap-amazon-storage-activity-7016740866325192704-HJWa?) - Recap1 
  
-- [Static Web Hosting in S3 video] (https://www.linkedin.com/posts/iamvijaya_awsservicesrecap2-staticwebsite-html-activity-7018214850975723520-dQPh?) - Recap2 stactic web Hosting in S3 
+- [Static Web Hosting in S3 video](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap2-staticwebsite-html-activity-7018214850975723520-dQPh?) - Recap2  
   
-- [on S3 bucket Q&A] (https://www.linkedin.com/posts/iamvijaya_awsservices-activity-7018902752567193600-S5iD?) - Recap3 S3 BucketQ&A
+- [on S3 bucket Q&A](https://www.linkedin.com/posts/iamvijaya_awsservices-activity-7018902752567193600-S5iD?) - Recap3 
 
 
 
