@@ -24,6 +24,8 @@ Strength: Quick Learner, Good Listener
   
 - [on S3 bucket Q&A](https://www.linkedin.com/posts/iamvijaya_awsservices-activity-7018902752567193600-S5iD?) - Recap3 
 
+- [𝐄𝐁𝐒 𝐯𝐬 𝐄𝐅𝐒 𝐯𝐬 𝐒𝟑](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap4-efs-harddrives-activity-7020590945498796032-_6za?) - Recap4
+
 
 
 ## Connect with me  
