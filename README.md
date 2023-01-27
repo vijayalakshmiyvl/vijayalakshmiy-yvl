@@ -18,13 +18,21 @@ Strength: Quick Learner, Good Listener
 
 - [Glad that I Joined Capgemini](https://www.linkedin.com/posts/iamvijaya_opportunity-capgemini-cloudnloud-activity-7013122226036097024-WM6x) 
   
- - [About Amazon S3 bucket](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap-amazon-storage-activity-7016740866325192704-HJWa?) - Recap1 
+ - [𝗔𝗯𝗼𝘂𝘁 𝗔𝗺𝗮𝘇𝗼𝗻 𝗦𝟯 𝗯𝘂𝗰𝗸𝗲𝘁](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap-amazon-storage-activity-7016740866325192704-HJWa?) - 𝗥𝗲𝗰𝗮𝗽𝟭
  
-- [Static Web Hosting in S3 video](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap2-staticwebsite-html-activity-7018214850975723520-dQPh?) - Recap2  
+- [𝗦𝘁𝗮𝘁𝗶𝗰 𝗪𝗲𝗯 𝗛𝗼𝘀𝘁𝗶𝗻𝗴 𝗶𝗻 𝗦𝟯 𝘃𝗶𝗱𝗲𝗼](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap2-staticwebsite-html-activity-7018214850975723520-dQPh?) - 𝗥𝗲𝗰𝗮𝗽 𝟮 
   
-- [on S3 bucket Q&A](https://www.linkedin.com/posts/iamvijaya_awsservices-activity-7018902752567193600-S5iD?) - Recap3 
+- [𝐒𝟑 𝐛𝐮𝐜𝐤𝐞𝐭 𝐐&𝐀](https://www.linkedin.com/posts/iamvijaya_awsservices-activity-7018902752567193600-S5iD?) - 𝗥𝗲𝗰𝗮𝗽 𝟯 
 
-- [𝐄𝐁𝐒 𝐯𝐬 𝐄𝐅𝐒 𝐯𝐬 𝐒𝟑](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap4-efs-harddrives-activity-7020590945498796032-_6za?) - Recap4
+- [𝐄𝐁𝐒 𝐯𝐬 𝐄𝐅𝐒 𝐯𝐬 𝐒𝟑](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap4-efs-harddrives-activity-7020590945498796032-_6za?) - 𝗥𝗲𝗰𝗮𝗽 𝟰
+
+- [𝘄𝗵𝗮𝘁 𝗶𝘀 𝗖𝗜𝗗𝗥?](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap5-networking-allocating-activity-7022014297593589761-5-kB?) - 𝗥𝗲𝗰𝗮𝗽 𝟱
+
+- [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐕𝐏𝐂?](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap6-ipadresses-customizable-activity-7024052151039496192-PkCn?) - 𝗥𝗲𝗰𝗮𝗽 𝟲
+
+
+
+
 
 
 
