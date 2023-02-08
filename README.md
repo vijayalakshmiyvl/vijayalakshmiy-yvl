@@ -30,7 +30,7 @@ Strength: Quick Learner, Good Listener
 
 - [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐕𝐏𝐂?](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap6-ipadresses-customizable-activity-7024052151039496192-PkCn?) - 𝗥𝗲𝗰𝗮𝗽 𝟲
 
-- [𝗠𝗼𝘃𝗲 𝗘𝗰𝟮 𝗜𝗻𝘀𝘁𝗮𝗻𝗰𝗲 𝗙𝗿𝗼𝗺 𝗢𝗻𝗲  𝗥𝗲𝗴𝗶𝗼𝗻 𝗧𝗼 𝗔𝗻𝗼𝘁𝗵𝗲𝗿 𝗥𝗲𝗴𝗶𝗼𝗻-𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝘃𝗶𝗱𝗲𝗼](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap7-move-activity-7025493635915792384-pEfp?)
+- [𝗠𝗼𝘃𝗲 𝗘𝗰𝟮 𝗜𝗻𝘀𝘁𝗮𝗻𝗰𝗲 𝗙𝗿𝗼𝗺 𝗢𝗻𝗲  𝗥𝗲𝗴𝗶𝗼𝗻 𝗧𝗼 𝗔𝗻𝗼𝘁𝗵𝗲𝗿 𝗥𝗲𝗴𝗶𝗼𝗻-𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝘃𝗶𝗱𝗲𝗼](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap7-move-activity-7025493635915792384-pEfp?)  - 𝗥𝗲𝗰𝗮𝗽 𝟳
 
 - [𝗠𝗲𝗱𝗶𝘂𝗺 𝗯𝗹𝗼𝗴 𝗮𝗯𝗼𝘂𝘁 𝗛𝗼𝘄 𝗧𝗼 𝗖𝗿𝗲𝗮𝘁𝗲 𝗩𝗣𝗖? 𝗛𝗼𝘄 𝗜𝗚𝗪 𝗮𝗻𝗱 𝗡𝗔𝗧 𝗚𝗮𝘁𝗲𝘄𝗮𝘆 𝘄𝗼𝗿𝗸𝘀?](https://www.linkedin.com/posts/iamvijaya_how-to-create-vpc-how-igw-and-nat-works-activity-7028339014428495872-diUB?)  - 𝗥𝗲𝗰𝗮𝗽 𝟴
 
