@@ -61,6 +61,8 @@ Strength: Quick Learner, Good Listener
 
 --- 
 # :tv: Cloudnloud YouTube - Latest Videos
+  
+- [AWS Beginner Usecases](https://youtube.com/playlist?list=PLh_VNk4-EHTNPKHXDGplFpqOujwI1EKst) - My play list   
 
 - [Cloud DevOps useCase Internship](https://www.youtube.com/playlist?list=PLh_VNk4-EHTMr69lm4Jxbl-9Vz5zc1Apl) - Course for beginners.
 - [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
