@@ -34,6 +34,12 @@ Strength: Quick Learner, Good Listener
 
 - [𝗠𝗲𝗱𝗶𝘂𝗺 𝗯𝗹𝗼𝗴 𝗮𝗯𝗼𝘂𝘁 𝗛𝗼𝘄 𝗧𝗼 𝗖𝗿𝗲𝗮𝘁𝗲 𝗩𝗣𝗖? 𝗛𝗼𝘄 𝗜𝗚𝗪 𝗮𝗻𝗱 𝗡𝗔𝗧 𝗚𝗮𝘁𝗲𝘄𝗮𝘆 𝘄𝗼𝗿𝗸𝘀?](https://www.linkedin.com/posts/iamvijaya_how-to-create-vpc-how-igw-and-nat-works-activity-7028339014428495872-diUB?)  - 𝗥𝗲𝗰𝗮𝗽 𝟴
 
+-[𝗛𝗼𝘄 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗘𝗖𝟮 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲 𝘂𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 ?- 𝗙𝗼𝗿 𝗯𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀](https://www.linkedin.com/posts/iamvijaya_how-to-create-ec2-instance-using-terraform-activity-7030442626982047744-SW0P?)
+
+- [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐄𝐊𝐒?](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap10-cloudnloud-amazonwebservices-activity-7031635418685087744-Ijpq?) - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟬
+
+- [𝗠𝗲𝗱𝗶𝘂𝗺 𝗯𝗹𝗼𝗴 𝗮𝗯𝗼𝘂𝘁 𝗘𝗞𝗦, 𝗽𝗿𝗼𝘃𝗶𝘀𝗶𝗼𝗻𝗶𝗻𝗴,𝗱𝗲𝗽𝗹𝗼𝘆 𝗮𝗽𝗽 𝗶𝗻 𝗘𝗞𝗦](https://www.linkedin.com/posts/iamvijaya_what-is-eks-how-to-provisionand-run-application-activity-7032001648533151744-H3FO?)  - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟭
+
 
 
 
