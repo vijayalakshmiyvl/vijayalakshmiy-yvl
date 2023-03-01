@@ -32,13 +32,13 @@ Strength: Quick Learner, Good Listener
 
 - [𝗠𝗼𝘃𝗲 𝗘𝗰𝟮 𝗜𝗻𝘀𝘁𝗮𝗻𝗰𝗲 𝗙𝗿𝗼𝗺 𝗢𝗻𝗲  𝗥𝗲𝗴𝗶𝗼𝗻 𝗧𝗼 𝗔𝗻𝗼𝘁𝗵𝗲𝗿 𝗥𝗲𝗴𝗶𝗼𝗻-𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝘃𝗶𝗱𝗲𝗼](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap7-move-activity-7025493635915792384-pEfp?)  - 𝗥𝗲𝗰𝗮𝗽 𝟳
 
-- [𝗠𝗲𝗱𝗶𝘂𝗺 𝗯𝗹𝗼𝗴 𝗮𝗯𝗼𝘂𝘁 𝗛𝗼𝘄 𝗧𝗼 𝗖𝗿𝗲𝗮𝘁𝗲 𝗩𝗣𝗖? 𝗛𝗼𝘄 𝗜𝗚𝗪 𝗮𝗻𝗱 𝗡𝗔𝗧 𝗚𝗮𝘁𝗲𝘄𝗮𝘆 𝘄𝗼𝗿𝗸𝘀?](https://www.linkedin.com/posts/iamvijaya_how-to-create-vpc-how-igw-and-nat-works-activity-7028339014428495872-diUB?)  - 𝗥𝗲𝗰𝗮𝗽 𝟴
+- [𝗛𝗼𝘄 𝗧𝗼 𝗖𝗿𝗲𝗮𝘁𝗲 𝗩𝗣𝗖? 𝗛𝗼𝘄 𝗜𝗚𝗪 𝗮𝗻𝗱 𝗡𝗔𝗧 𝗚𝗮𝘁𝗲𝘄𝗮𝘆 𝘄𝗼𝗿𝗸𝘀?-𝗺𝗲𝗱𝗶𝘂𝗺](https://www.linkedin.com/posts/iamvijaya_how-to-create-vpc-how-igw-and-nat-works-activity-7028339014428495872-diUB?)  - 𝗥𝗲𝗰𝗮𝗽 𝟴
 
-- [𝗛𝗼𝘄 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗘𝗖𝟮 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲 𝘂𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 ?- 𝗙𝗼𝗿 𝗯𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀](https://www.linkedin.com/posts/iamvijaya_how-to-create-ec2-instance-using-terraform-activity-7030442626982047744-SW0P?)  - 𝗥𝗲𝗰𝗮𝗽 𝟵
+- [𝗛𝗼𝘄 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗘𝗖𝟮 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲 𝘂𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 ?- 𝗙𝗼𝗿 𝗯𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀-𝗺𝗲𝗱𝗶𝘂𝗺](https://www.linkedin.com/posts/iamvijaya_how-to-create-ec2-instance-using-terraform-activity-7030442626982047744-SW0P?)  - 𝗥𝗲𝗰𝗮𝗽 𝟵
 
 - [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐄𝐊𝐒?](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap10-cloudnloud-amazonwebservices-activity-7031635418685087744-Ijpq?) - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟬
 
-- [𝗠𝗲𝗱𝗶𝘂𝗺 𝗯𝗹𝗼𝗴 𝗮𝗯𝗼𝘂𝘁 𝗘𝗞𝗦, 𝗽𝗿𝗼𝘃𝗶𝘀𝗶𝗼𝗻𝗶𝗻𝗴,𝗱𝗲𝗽𝗹𝗼𝘆 𝗮𝗽𝗽 𝗶𝗻 𝗘𝗞𝗦](https://www.linkedin.com/posts/iamvijaya_what-is-eks-how-to-provisionand-run-application-activity-7032001648533151744-H3FO?)  - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟭
+- [𝗘𝗞𝗦, 𝗽𝗿𝗼𝘃𝗶𝘀𝗶𝗼𝗻𝗶𝗻𝗴,𝗱𝗲𝗽𝗹𝗼𝘆 𝗮𝗽𝗽 𝗶𝗻 𝗘𝗞𝗦-𝗺𝗲𝗱𝗶𝘂𝗺 ](https://www.linkedin.com/posts/iamvijaya_what-is-eks-how-to-provisionand-run-application-activity-7032001648533151744-H3FO?)  - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟭
 
 - [𝗔𝗺𝗮𝘇𝗼𝗻 𝗖𝗼𝗻𝗻𝗲𝗰𝘁](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap12-awsconnect-cloudnloud-activity-7035063481510883328-eYFK?) - 𝗥𝗲𝗰𝗮𝗽𝟭𝟮
 
