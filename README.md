@@ -42,6 +42,8 @@ Strength: Quick Learner, Good Listener
 
 - [𝗔𝗺𝗮𝘇𝗼𝗻 𝗖𝗼𝗻𝗻𝗲𝗰𝘁](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap12-awsconnect-cloudnloud-activity-7035063481510883328-eYFK?) - 𝗥𝗲𝗰𝗮𝗽𝟭𝟮
 
+- [𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄 & 𝗖𝗿𝗲𝗮𝘁𝗲 𝗹𝗼𝗰𝗮𝗹 𝗳𝗶𝗹𝗲 𝘂𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗹𝗼𝗰𝗮𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿-𝗺𝗲𝗱𝗶𝘂𝗺](https://www.linkedin.com/posts/iamvijaya_terraform-workflow-local-provider-in-terraform-activity-7036116527342858240-9pIR?) - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟯
+
 
 
 
