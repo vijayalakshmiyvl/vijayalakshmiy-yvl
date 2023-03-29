@@ -50,7 +50,7 @@ Strength: Quick Learner, Good Listener
 
 - [𝗔𝗪𝗦 𝗟𝗮𝗺𝗯𝗱𝗮](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap16-awslambda-cloudnloud-activity-7044524295649165313-GetV?) - 𝗥𝗲𝗰𝗮𝗽-𝟭𝟲
 
-
+-[Apache-Tomcat](https://www.linkedin.com/posts/iamvijaya_apache-tomcat-activity-7045324309988315136-Mi6b?utm_source=share&utm_medium=member_desktop) - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟳
 
 
 
