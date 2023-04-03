@@ -52,6 +52,7 @@ Strength: Quick Learner, Good Listener
 
 - [𝗔𝗽𝗮𝗰𝗵𝗲-𝗧𝗼𝗺𝗰𝗮𝘁](https://www.linkedin.com/posts/iamvijaya_apache-tomcat-activity-7045324309988315136-Mi6b?utm_source=share&utm_medium=member_desktop) - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟳
 
+- [authentication and configuration of Terraform](https://www.linkedin.com/posts/iamvijaya_authentication-and-configuration-activity-7048243745774833664-cBNS?)-  𝗥𝗲𝗰𝗮𝗽 𝟭8
 
 
 
