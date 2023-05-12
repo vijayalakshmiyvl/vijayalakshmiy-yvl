@@ -54,6 +54,13 @@ Strength: Quick Learner, Good Listener
 
 - [𝗮𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗰𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺](https://www.linkedin.com/posts/iamvijaya_authentication-and-configuration-activity-7048243745774833664-cBNS?)- 𝗥𝗲𝗰𝗮𝗽 𝟭𝟴
 
+- [𝗖𝗵𝗮𝘁𝗚𝗣𝗧 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 𝗰𝗿𝗲𝗮𝘁𝗶𝗼𝗻](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap19-chatgpt-aws-activity-7050714486906753024-Yqmu?)- 𝗥𝗲𝗰𝗮𝗽-𝟭𝟵
+
+- [𝗠𝗶𝗴𝗿𝗮𝘁𝗲 𝗟𝗼𝗰𝗮𝗹 𝗦𝘁𝗮𝘁𝗲𝗳𝗶𝗹𝗲 𝘁𝗼 𝗥𝗲𝗺𝗼𝘁𝗲](https://www.linkedin.com/posts/iamvijaya_migrate-local-state-file-to-remote-activity-7053321127690964992--20H?)- 𝗥𝗲𝗰𝗮𝗽-𝟮𝟬
+
+- [𝗣𝗹𝘂𝗿𝗮𝘀𝗶𝗴𝗵𝘁 𝘄𝗲𝗯𝗶𝗻𝗮𝗿 𝟱 𝗣𝗶𝗹𝗹𝗮𝗿𝘀 𝗼𝗳 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap21-plurasight-cloudsecurity-activity-7057339857353785344-aRWY?)- 𝗥𝗲𝗰𝗮𝗽-𝟮𝟭
+
+
 
 
 ## Connect with me  
