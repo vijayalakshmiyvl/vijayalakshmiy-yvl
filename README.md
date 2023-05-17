@@ -60,6 +60,8 @@ Strength: Quick Learner, Good Listener
 
 - [𝗣𝗹𝘂𝗿𝗮𝘀𝗶𝗴𝗵𝘁 𝘄𝗲𝗯𝗶𝗻𝗮𝗿 𝟱 𝗣𝗶𝗹𝗹𝗮𝗿𝘀 𝗼𝗳 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap21-plurasight-cloudsecurity-activity-7057339857353785344-aRWY?)- 𝗥𝗲𝗰𝗮𝗽-𝟮𝟭
 
+- [𝗖𝗿𝗲𝗮𝘁𝗲 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗨𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺](https://www.linkedin.com/posts/iamvijaya_medium-activity-7063460437417230336-cRQM?)-𝗥𝗲𝗰𝗮𝗽-𝟮𝟮
+
 
 
 
