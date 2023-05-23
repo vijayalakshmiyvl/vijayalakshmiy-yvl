@@ -62,7 +62,7 @@ Strength: Quick Learner, Good Listener
 
 - [𝗖𝗿𝗲𝗮𝘁𝗲 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗨𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺-𝗺𝗲𝗱𝗶𝘂𝗺8](https://www.linkedin.com/posts/iamvijaya_medium-activity-7063460437417230336-cRQM?)-𝗥𝗲𝗰𝗮𝗽-𝟮𝟮
 
-- [𝗛𝗼𝘄 𝗧𝗼 𝗥𝗲𝘀𝗲𝘁 𝗝𝗲𝗻𝗸𝗶𝗻𝘀 𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱](https://www.linkedin.com/posts/iamvijaya_how-to-reset-jenkins-admin-password-activity-7065181964038799360-ZPmv?)- 𝗥𝗲𝗰𝗮𝗽-𝟮𝟯
+- [𝗛𝗼𝘄 𝗧𝗼 𝗥𝗲𝘀𝗲𝘁 𝗝𝗲𝗻𝗸𝗶𝗻𝘀 𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱-𝗺𝗲𝗱𝗶𝘂𝗺9](https://www.linkedin.com/posts/iamvijaya_how-to-reset-jenkins-admin-password-activity-7065181964038799360-ZPmv?)- 𝗥𝗲𝗰𝗮𝗽-𝟮𝟯
 
 
 
