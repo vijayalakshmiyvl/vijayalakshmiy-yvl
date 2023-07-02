@@ -67,6 +67,8 @@ Strength: Quick Learner, Good Listener
 - [𝗛𝗼𝘄 𝗣𝗼𝗱𝘀 𝗔𝗿𝗲 𝗔𝘀𝘀𝗶𝗴𝗻𝗲𝗱 𝗧𝗼 𝗦𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝗡𝗼𝗱𝗲?](https://www.linkedin.com/posts/iamvijaya_assigning-pods-to-nodes-activity-7070434147567079424-MmY0?)- 𝗥𝗲𝗰𝗮𝗽-𝟮𝟰
 
 - [𝗖𝗼𝗻𝗳𝗶𝗴𝗠𝗮𝗽𝘀 𝗔𝗻𝗱 𝗦𝗲𝗰𝗿𝗲𝘁𝘀](https://www.linkedin.com/posts/iamvijaya_configmaps-activity-7075861467987673088-EGte?)- 𝗥𝗲𝗰𝗮𝗽-𝟮𝟱
+
+- [𝟮𝟱𝗽𝗼𝘀𝘁𝘀 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆](https://www.linkedin.com/posts/iamvijaya_cloudnloud-amazonwebservices-awscommunitybuilders-activity-7078576226784722944-fdh4?)
 ## Connect with me  
 <a href="https://github.com/vijayalakshmiy-YVL" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
