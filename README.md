@@ -70,7 +70,9 @@ Strength: Quick Learner, Good Listener
 
 - [𝟮𝟱𝗽𝗼𝘀𝘁𝘀 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆](https://www.linkedin.com/posts/iamvijaya_cloudnloud-amazonwebservices-awscommunitybuilders-activity-7078576226784722944-fdh4?) - 𝗥𝗲𝗰𝗮𝗽-𝟮𝟲
 
-- [KodeKloud Engineer platform announced-my task Status](https://www.linkedin.com/posts/iamvijaya_httpsengineerkodekloudcom-activity-7091270639872851968-Vn6W?) - 𝗥𝗲𝗰𝗮𝗽 𝟮𝟳
+- [𝗞𝗼𝗱𝗲𝗞𝗹𝗼𝘂𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗮𝗻𝗻𝗼𝘂𝗻𝗰𝗲𝗱-𝗺𝘆 𝘁𝗮𝘀𝗸 𝗦𝘁𝗮𝘁𝘂𝘀](https://www.linkedin.com/posts/iamvijaya_httpsengineerkodekloudcom-activity-7091270639872851968-Vn6W?) - 𝗥𝗲𝗰𝗮𝗽 𝟮𝟳
+
+  
 ## Connect with me  
 <a href="https://github.com/vijayalakshmiy-YVL" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
