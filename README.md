@@ -69,6 +69,8 @@ Strength: Quick Learner, Good Listener
 - [𝗖𝗼𝗻𝗳𝗶𝗴𝗠𝗮𝗽𝘀 𝗔𝗻𝗱 𝗦𝗲𝗰𝗿𝗲𝘁𝘀](https://www.linkedin.com/posts/iamvijaya_configmaps-activity-7075861467987673088-EGte?)- 𝗥𝗲𝗰𝗮𝗽-𝟮𝟱
 
 - [𝟮𝟱𝗽𝗼𝘀𝘁𝘀 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆](https://www.linkedin.com/posts/iamvijaya_cloudnloud-amazonwebservices-awscommunitybuilders-activity-7078576226784722944-fdh4?) - 𝗥𝗲𝗰𝗮𝗽-𝟮𝟲
+
+- [KodeKloud Engineer platform announced-my task Status](https://www.linkedin.com/posts/iamvijaya_httpsengineerkodekloudcom-activity-7091270639872851968-Vn6W?) - 𝗥𝗲𝗰𝗮𝗽 𝟮𝟳
 ## Connect with me  
 <a href="https://github.com/vijayalakshmiy-YVL" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
