@@ -72,7 +72,9 @@ Strength: Quick Learner, Good Listener
 
 - [𝗞𝗼𝗱𝗲𝗞𝗹𝗼𝘂𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗮𝗻𝗻𝗼𝘂𝗻𝗰𝗲𝗱-𝗺𝘆 𝘁𝗮𝘀𝗸 𝗦𝘁𝗮𝘁𝘂𝘀](https://www.linkedin.com/posts/iamvijaya_httpsengineerkodekloudcom-activity-7091270639872851968-Vn6W?) - 𝗥𝗲𝗰𝗮𝗽 𝟮𝟳
 
-  
+- [𝗞𝗢𝗣𝗦?](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap27-devops-cloudnloud-activity-7098506216754081793-b0fI?) - 𝐑𝐞𝐜𝐚𝐩 𝟐𝟖
+
+- [𝗖𝗡𝗖𝗙 𝗛𝘆𝗱𝗲𝗿𝗮𝗯𝗮𝗱 𝗺𝗲𝗲𝘁𝘂𝗽](https://www.linkedin.com/posts/iamvijaya_cncf-hyderabad-meetup-activity-7098724208087638016-YtFc?)  - 𝗠𝗲𝗲𝘁𝘂𝗽 𝗽𝗮𝗿𝘁𝗶𝗰𝗶𝗽𝗮𝘁𝗶𝗼𝗻
 ## Connect with me  
 <a href="https://github.com/vijayalakshmiy-YVL" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
