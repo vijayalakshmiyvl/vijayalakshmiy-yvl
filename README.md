@@ -75,6 +75,8 @@ Strength: Quick Learner, Good Listener
 - [𝗞𝗢𝗣𝗦?](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap27-devops-cloudnloud-activity-7098506216754081793-b0fI?) - 𝐑𝐞𝐜𝐚𝐩 𝟐𝟖
 
 - [𝗖𝗡𝗖𝗙 𝗛𝘆𝗱𝗲𝗿𝗮𝗯𝗮𝗱 𝗺𝗲𝗲𝘁𝘂𝗽](https://www.linkedin.com/posts/iamvijaya_cncf-hyderabad-meetup-activity-7098724208087638016-YtFc?)  - 𝗠𝗲𝗲𝘁𝘂𝗽 𝗽𝗮𝗿𝘁𝗶𝗰𝗶𝗽𝗮𝘁𝗶𝗼𝗻
+
+- [𝗗𝗗𝗼𝗦 𝗔𝘁𝘁𝗮𝗰𝗸𝘀?](https://www.linkedin.com/posts/iamvijaya_ddos-prevent-devops-activity-7101211366224510976-EPl6?)  - 𝗥𝗲𝗰𝗮𝗽 𝟮𝟵
 ## Connect with me  
 <a href="https://github.com/vijayalakshmiy-YVL" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
